@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Minilog</title>
-    <link>http://localhost:1313/minilog-hugo/fr/tags/</link>
+    <link>https://demo.statichunt.com/minilog-hugo/fr/tags/</link>
     <description>Recent content in Tags on Minilog</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/minilog-hugo/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://demo.statichunt.com/minilog-hugo/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Food</title>
-      <link>http://localhost:1313/minilog-hugo/fr/tags/food/</link>
+      <link>https://demo.statichunt.com/minilog-hugo/fr/tags/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/minilog-hugo/fr/tags/food/</guid>
+      <guid>https://demo.statichunt.com/minilog-hugo/fr/tags/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthcare</title>
-      <link>http://localhost:1313/minilog-hugo/fr/tags/healthcare/</link>
+      <link>https://demo.statichunt.com/minilog-hugo/fr/tags/healthcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/minilog-hugo/fr/tags/healthcare/</guid>
+      <guid>https://demo.statichunt.com/minilog-hugo/fr/tags/healthcare/</guid>
       <description></description>
     </item>
     <item>
       <title>Lifestyle</title>
-      <link>http://localhost:1313/minilog-hugo/fr/tags/lifestyle/</link>
+      <link>https://demo.statichunt.com/minilog-hugo/fr/tags/lifestyle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/minilog-hugo/fr/tags/lifestyle/</guid>
+      <guid>https://demo.statichunt.com/minilog-hugo/fr/tags/lifestyle/</guid>
       <description></description>
     </item>
     <item>
       <title>Nature</title>
-      <link>http://localhost:1313/minilog-hugo/fr/tags/nature/</link>
+      <link>https://demo.statichunt.com/minilog-hugo/fr/tags/nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/minilog-hugo/fr/tags/nature/</guid>
+      <guid>https://demo.statichunt.com/minilog-hugo/fr/tags/nature/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/minilog-hugo/fr/tags/travel/</link>
+      <link>https://demo.statichunt.com/minilog-hugo/fr/tags/travel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/minilog-hugo/fr/tags/travel/</guid>
+      <guid>https://demo.statichunt.com/minilog-hugo/fr/tags/travel/</guid>
       <description></description>
     </item>
   </channel>
