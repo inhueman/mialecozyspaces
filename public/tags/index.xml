@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Minilog</title>
+    <link>http://localhost:1313/minilog-hugo/tags/</link>
+    <description>Recent content in Tags on Minilog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Oct 2021 11:07:10 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/minilog-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Food</title>
+      <link>http://localhost:1313/minilog-hugo/tags/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/minilog-hugo/tags/food/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lifestyle</title>
+      <link>http://localhost:1313/minilog-hugo/tags/lifestyle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/minilog-hugo/tags/lifestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>http://localhost:1313/minilog-hugo/tags/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/minilog-hugo/tags/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Healthcare</title>
+      <link>http://localhost:1313/minilog-hugo/tags/healthcare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/minilog-hugo/tags/healthcare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nature</title>
+      <link>http://localhost:1313/minilog-hugo/tags/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/minilog-hugo/tags/nature/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
