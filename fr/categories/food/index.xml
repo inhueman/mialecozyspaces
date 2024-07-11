@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food on Minilog</title>
+    <link>http://localhost:1313/minilog-hugo/fr/categories/food/</link>
+    <description>Recent content in Food on Minilog</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/minilog-hugo/fr/categories/food/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How the travel sector is overcoming their pandamic stress!</title>
+      <link>http://localhost:1313/minilog-hugo/fr/posts/post-5/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/minilog-hugo/fr/posts/post-5/</guid>
+      <description>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for.</description>
+    </item>
+  </channel>
+</rss>
