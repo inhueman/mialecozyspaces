@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nature on Minilog</title>
-    <link>https://demo.statichunt.com/minilog-hugo/fr/categories/nature/</link>
+    <link>http://localhost:1313/fr/categories/nature/</link>
     <description>Recent content in Nature on Minilog</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://demo.statichunt.com/minilog-hugo/fr/categories/nature/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/categories/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The 2020/2021 Winter Beauty Trends and Shopping Tips</title>
-      <link>https://demo.statichunt.com/minilog-hugo/fr/posts/post-4/</link>
+      <link>http://localhost:1313/fr/posts/post-4/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/fr/posts/post-4/</guid>
+      <guid>http://localhost:1313/fr/posts/post-4/</guid>
       <description>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for.</description>
     </item>
     <item>
       <title>The 2020/2021 Winter Beauty Trends and Shopping Tips</title>
-      <link>https://demo.statichunt.com/minilog-hugo/fr/posts/post-6/</link>
+      <link>http://localhost:1313/fr/posts/post-6/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/fr/posts/post-6/</guid>
+      <guid>http://localhost:1313/fr/posts/post-6/</guid>
       <description>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for.</description>
     </item>
   </channel>

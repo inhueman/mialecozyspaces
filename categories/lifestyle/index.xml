@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lifestyle on Minilog</title>
-    <link>https://demo.statichunt.com/minilog-hugo/categories/lifestyle/</link>
+    <link>http://localhost:1313/categories/lifestyle/</link>
     <description>Recent content in Lifestyle on Minilog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Oct 2021 11:07:10 +0700</lastBuildDate>
-    <atom:link href="https://demo.statichunt.com/minilog-hugo/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How the travel sector is overcoming their pandamic stress!</title>
-      <link>https://demo.statichunt.com/minilog-hugo/posts/post-1/</link>
+      <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Sat, 16 Oct 2021 11:07:10 +0700</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/posts/post-1/</guid>
+      <guid>http://localhost:1313/posts/post-1/</guid>
       <description>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for.</description>
     </item>
   </channel>
