@@ -2,329 +2,329 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://demo.statichunt.com/minilog-hugo/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/about/"
+                href="http://localhost:1313/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/about/"
+                href="http://localhost:1313/about/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/contact/"
+                href="http://localhost:1313/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/contact/"
+                href="http://localhost:1313/contact/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/elements/</loc>
+    <loc>http://localhost:1313/elements/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/elements/"
+                href="http://localhost:1313/fr/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/elements/"
+                href="http://localhost:1313/elements/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/tags/food/</loc>
+    <loc>http://localhost:1313/tags/food/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/tags/food/"
+                href="http://localhost:1313/fr/tags/food/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/tags/food/"
+                href="http://localhost:1313/tags/food/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/categories/food/</loc>
+    <loc>http://localhost:1313/categories/food/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/categories/food/"
+                href="http://localhost:1313/fr/categories/food/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/categories/food/"
+                href="http://localhost:1313/categories/food/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/posts/post-5/</loc>
+    <loc>http://localhost:1313/posts/post-5/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/posts/post-5/"
+                href="http://localhost:1313/fr/posts/post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/posts/post-5/"
+                href="http://localhost:1313/posts/post-5/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/posts/"
+                href="http://localhost:1313/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/posts/"
+                href="http://localhost:1313/posts/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/tags/"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/posts/post-1/</loc>
+    <loc>http://localhost:1313/posts/post-1/</loc>
     <lastmod>2021-10-16T11:07:10+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/posts/post-1/"
+                href="http://localhost:1313/fr/posts/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/posts/post-1/"
+                href="http://localhost:1313/posts/post-1/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/tags/lifestyle/</loc>
+    <loc>http://localhost:1313/tags/lifestyle/</loc>
     <lastmod>2021-10-16T11:07:10+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/tags/lifestyle/"
+                href="http://localhost:1313/fr/tags/lifestyle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/tags/lifestyle/"
+                href="http://localhost:1313/tags/lifestyle/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/categories/lifestyle/</loc>
+    <loc>http://localhost:1313/categories/lifestyle/</loc>
     <lastmod>2021-10-16T11:07:10+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/categories/lifestyle/"
+                href="http://localhost:1313/fr/categories/lifestyle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/categories/lifestyle/"
+                href="http://localhost:1313/categories/lifestyle/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/posts/post-2/</loc>
+    <loc>http://localhost:1313/posts/post-2/</loc>
     <lastmod>2021-10-16T11:07:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/posts/post-2/"
+                href="http://localhost:1313/fr/posts/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/posts/post-2/"
+                href="http://localhost:1313/posts/post-2/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/tags/travel/</loc>
+    <loc>http://localhost:1313/tags/travel/</loc>
     <lastmod>2021-10-16T11:07:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/tags/travel/"
+                href="http://localhost:1313/fr/tags/travel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/tags/travel/"
+                href="http://localhost:1313/tags/travel/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/categories/travel/</loc>
+    <loc>http://localhost:1313/categories/travel/</loc>
     <lastmod>2021-10-16T11:07:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/categories/travel/"
+                href="http://localhost:1313/fr/categories/travel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/categories/travel/"
+                href="http://localhost:1313/categories/travel/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/tags/healthcare/</loc>
+    <loc>http://localhost:1313/tags/healthcare/</loc>
     <lastmod>2021-10-16T11:07:10+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/tags/healthcare/"
+                href="http://localhost:1313/fr/tags/healthcare/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/tags/healthcare/"
+                href="http://localhost:1313/tags/healthcare/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/categories/healthcare/</loc>
+    <loc>http://localhost:1313/categories/healthcare/</loc>
     <lastmod>2021-10-16T11:07:10+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/categories/healthcare/"
+                href="http://localhost:1313/fr/categories/healthcare/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/categories/healthcare/"
+                href="http://localhost:1313/categories/healthcare/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/posts/post-3/</loc>
+    <loc>http://localhost:1313/posts/post-3/</loc>
     <lastmod>2021-10-16T11:07:10+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/posts/post-3/"
+                href="http://localhost:1313/fr/posts/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/posts/post-3/"
+                href="http://localhost:1313/posts/post-3/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/tags/nature/</loc>
+    <loc>http://localhost:1313/tags/nature/</loc>
     <lastmod>2021-10-16T11:07:10+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/tags/nature/"
+                href="http://localhost:1313/fr/tags/nature/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/tags/nature/"
+                href="http://localhost:1313/tags/nature/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/categories/nature/</loc>
+    <loc>http://localhost:1313/categories/nature/</loc>
     <lastmod>2021-10-16T11:07:10+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/categories/nature/"
+                href="http://localhost:1313/fr/categories/nature/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/categories/nature/"
+                href="http://localhost:1313/categories/nature/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/posts/post-4/</loc>
+    <loc>http://localhost:1313/posts/post-4/</loc>
     <lastmod>2021-10-16T11:07:10+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/posts/post-4/"
+                href="http://localhost:1313/fr/posts/post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/posts/post-4/"
+                href="http://localhost:1313/posts/post-4/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/posts/post-6/</loc>
+    <loc>http://localhost:1313/posts/post-6/</loc>
     <lastmod>2021-10-16T11:07:10+11:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/posts/post-6/"
+                href="http://localhost:1313/fr/posts/post-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/posts/post-6/"
+                href="http://localhost:1313/posts/post-6/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/privacy-policy/</loc>
+    <loc>http://localhost:1313/privacy-policy/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/privacy-policy/"
+                href="http://localhost:1313/fr/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/privacy-policy/"
+                href="http://localhost:1313/privacy-policy/"
                 />
   </url><url>
-    <loc>https://demo.statichunt.com/minilog-hugo/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://demo.statichunt.com/minilog-hugo/fr/search/"
+                href="http://localhost:1313/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://demo.statichunt.com/minilog-hugo/search/"
+                href="http://localhost:1313/search/"
                 />
   </url>
 </urlset>

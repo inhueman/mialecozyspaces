@@ -6800,7 +6800,7 @@ body {
 
 p {
   margin-bottom: 1rem;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   font-size: 0.875rem;
   line-height: 1.625rem; }
 
@@ -7020,7 +7020,7 @@ body.dark {
   display: flex;
   align-items: center;
   text-transform: capitalize;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   display: inline-block; }
   .btn-link:hover svg {
     transform: translateX(0.3rem); }
@@ -7222,7 +7222,7 @@ a:hover {
     display: none; }
   .social-links li a {
     color: #494949;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Josefin Sans", sans-serif;
     text-transform: capitalize; }
     .social-links li a:hover {
       color: #1C1C1C; }
@@ -7235,7 +7235,7 @@ footer .social-links {
 footer .form-control {
   color: #1C1C1C;
   font-size: 14px;
-  font-family: "Open Sans", sans-serif; }
+  font-family: "Josefin Sans", sans-serif; }
   footer .form-control::placeholder {
     color: #494949; }
 
@@ -7304,7 +7304,7 @@ footer .form-control {
 .content ul li,
 .content ol li {
   text-transform: capitalize;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   margin-bottom: 1.5rem; }
 
 .content ol {
@@ -7534,7 +7534,7 @@ footer .form-control {
   line-height: 2.125rem; }
 
 .font-secondary {
-  font-family: "Open Sans", sans-serif; }
+  font-family: "Josefin Sans", sans-serif; }
 
 .theme-switcher path {
   stroke: #1C1C1C; }
@@ -7702,7 +7702,7 @@ body.dark {
   .navigation select {
     color: #1C1C1C;
     background-color: #fff;
-    font-family: "Open Sans", sans-serif; }
+    font-family: "Josefin Sans", sans-serif; }
     .navigation select option {
       color: #1C1C1C; }
   .navigation .checkmark {

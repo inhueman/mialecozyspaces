@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Minilog</title>
-    <link>https://demo.statichunt.com/minilog-hugo/fr/</link>
+    <link>http://localhost:1313/fr/</link>
     <description>Recent content in Home on Minilog</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 16 Oct 2021 11:07:10 +0600</lastBuildDate>
-    <atom:link href="https://demo.statichunt.com/minilog-hugo/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>À propos</title>
-      <link>https://demo.statichunt.com/minilog-hugo/fr/about/</link>
+      <link>http://localhost:1313/fr/about/</link>
       <pubDate>Sat, 16 Oct 2021 11:07:10 +0600</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/fr/about/</guid>
+      <guid>http://localhost:1313/fr/about/</guid>
       <description>Hello dear&amp;hellip;&#xA;Quisque sem ipsum, placerat nec tortor vel, blandit vestibulum libero. Morbi sollicitudin viverra justo et pellentesque. Nunc sem metus, maximus eu leo viverra, pulvinar vestibulum mi.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://demo.statichunt.com/minilog-hugo/fr/contact/</link>
+      <link>http://localhost:1313/fr/contact/</link>
       <pubDate>Sat, 16 Oct 2021 11:07:10 +0600</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/fr/contact/</guid>
+      <guid>http://localhost:1313/fr/contact/</guid>
       <description>My Contact Info. Quisque sem ipsum, placerat nec tortor vel, blandit vestibulum libero. Morbi sollicitudin viverra justo et pellentesque. Nunc sem metus, maximus eu leo viverra, pulvinar vestibulum</description>
     </item>
     <item>
       <title>Éléments</title>
-      <link>https://demo.statichunt.com/minilog-hugo/fr/elements/</link>
+      <link>http://localhost:1313/fr/elements/</link>
       <pubDate>Sat, 16 Oct 2021 11:07:10 +0600</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/fr/elements/</guid>
+      <guid>http://localhost:1313/fr/elements/</guid>
       <description>Heading H1 Heading H2 Heading H3 Heading H4 Heading H5 Heading H6 Heading paragraph Did you come here for something in particular or just general Riker-bashing?</description>
     </item>
     <item>
       <title>How the travel sector is overcoming their pandamic stress!</title>
-      <link>https://demo.statichunt.com/minilog-hugo/fr/posts/post-1/</link>
+      <link>http://localhost:1313/fr/posts/post-1/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/fr/posts/post-1/</guid>
+      <guid>http://localhost:1313/fr/posts/post-1/</guid>
       <description>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for.</description>
     </item>
     <item>
       <title>How the travel sector is overcoming their pandamic stress!</title>
-      <link>https://demo.statichunt.com/minilog-hugo/fr/posts/post-3/</link>
+      <link>http://localhost:1313/fr/posts/post-3/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/fr/posts/post-3/</guid>
+      <guid>http://localhost:1313/fr/posts/post-3/</guid>
       <description>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for.</description>
     </item>
     <item>
       <title>How the travel sector is overcoming their pandamic stress!</title>
-      <link>https://demo.statichunt.com/minilog-hugo/fr/posts/post-5/</link>
+      <link>http://localhost:1313/fr/posts/post-5/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/fr/posts/post-5/</guid>
+      <guid>http://localhost:1313/fr/posts/post-5/</guid>
       <description>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for.</description>
     </item>
     <item>
       <title>Politique de confidentialité</title>
-      <link>https://demo.statichunt.com/minilog-hugo/fr/privacy-policy/</link>
+      <link>http://localhost:1313/fr/privacy-policy/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/fr/privacy-policy/</guid>
+      <guid>http://localhost:1313/fr/privacy-policy/</guid>
       <description>What personal data we collect and why we collect it PLEASE READ THIS STATEMENT CAREFULLY TO UNDERSTAND HOW CHARITY COLLECTS, USES AND STORES YOUR PERSONAL DATA.</description>
     </item>
     <item>
       <title>The 2020/2021 Winter Beauty Trends and Shopping Tips</title>
-      <link>https://demo.statichunt.com/minilog-hugo/fr/posts/post-2/</link>
+      <link>http://localhost:1313/fr/posts/post-2/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/fr/posts/post-2/</guid>
+      <guid>http://localhost:1313/fr/posts/post-2/</guid>
       <description>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for.</description>
     </item>
     <item>
       <title>The 2020/2021 Winter Beauty Trends and Shopping Tips</title>
-      <link>https://demo.statichunt.com/minilog-hugo/fr/posts/post-4/</link>
+      <link>http://localhost:1313/fr/posts/post-4/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/fr/posts/post-4/</guid>
+      <guid>http://localhost:1313/fr/posts/post-4/</guid>
       <description>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for.</description>
     </item>
     <item>
       <title>The 2020/2021 Winter Beauty Trends and Shopping Tips</title>
-      <link>https://demo.statichunt.com/minilog-hugo/fr/posts/post-6/</link>
+      <link>http://localhost:1313/fr/posts/post-6/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/fr/posts/post-6/</guid>
+      <guid>http://localhost:1313/fr/posts/post-6/</guid>
       <description>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for.</description>
     </item>
     <item>
       <title>Result of the research</title>
-      <link>https://demo.statichunt.com/minilog-hugo/fr/search/</link>
+      <link>http://localhost:1313/fr/search/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>https://demo.statichunt.com/minilog-hugo/fr/search/</guid>
+      <guid>http://localhost:1313/fr/search/</guid>
       <description></description>
     </item>
   </channel>
