@@ -1,5 +1,10 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
-draft = true
+image = "images/blog/"
+categories = [""]
+tags = [""]
+popular = "true"
+draft = "true"
+description = "Meta description"
 +++

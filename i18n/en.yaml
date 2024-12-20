@@ -2,8 +2,8 @@
   translation: Read More
 
 - id: subscribe_newslatter
-  translation: Subscribe for newslatter
-  
+  translation: Subscribe for newsletter
+
 - id: name
   translation: Name
 
@@ -36,21 +36,21 @@
 
 - id: about_me
   translation: about me
-  
+
 - id: contact_me
   translation: contact me
-  
+
 - id: follow_on
-  translation: follow on  
-  
+  translation: follow on
+
 - id: privacy_policy
-  translation: privacy policy 
+  translation: privacy policy
 
 - id: newsletter
   translation: newsletter
- 
+
 - id: newsletter_content
-  translation: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  translation: Subscribe to our Newsletter
 
 - id: categories_item
   translation: showing items form

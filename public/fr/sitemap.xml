@@ -69,55 +69,15 @@
   </url><url>
     <loc>http://localhost:1313/fr/tags/food/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/food/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/tags/food/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/categories/food/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/categories/food/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/categories/food/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/tags/healthcare/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/healthcare/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/tags/healthcare/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/categories/healthcare/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/categories/healthcare/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/categories/healthcare/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/posts/post-1/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
@@ -160,55 +120,15 @@
   </url><url>
     <loc>http://localhost:1313/fr/tags/lifestyle/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/lifestyle/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/tags/lifestyle/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/categories/lifestyle/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/categories/lifestyle/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/categories/lifestyle/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/tags/nature/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/nature/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/tags/nature/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/categories/nature/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/categories/nature/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/categories/nature/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/privacy-policy/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
@@ -290,29 +210,9 @@
   </url><url>
     <loc>http://localhost:1313/fr/tags/travel/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/travel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/tags/travel/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/categories/travel/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/categories/travel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/categories/travel/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/search/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
@@ -325,6 +225,30 @@
                 rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/search/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/authors/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/social/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/social/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/social/"
                 />
   </url>
 </urlset>

@@ -2,8 +2,8 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.png"
-logo_dark = "images/logo-white.png"
+logo = "images/miale-logo.png"
+logo_dark = "images/miale-logo-white.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "100px"
@@ -16,25 +16,28 @@ theme_switcher = true
 theme_default = "automatic" # available options [light/dark/automatic]
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "Miale Cozy Spaces"
 
 # search
 search = true
-# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "Statichunt"
 image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
+
+[Author]
+name = "inhueman"
+twitter = "mialecozy" # Twitter username without @
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
 # contact info
-address = "House No: #32/A, 184 Main Collins Street, West Victoria New york, United State."
-phone = "+235725675, +343498759"
-email = "support@minilog.com"
+address = "184 Main Collins Street, West Victoria New york, United State."
+phone = ""
+email = "hello@mialecozy.online"
 
 # Main Sections
 mainSections = ["posts"]
@@ -81,7 +84,7 @@ baidu = ""  # Your verification code
 # Instagram feed
 [instafeed]
 enable = true
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
+access_token = "IGQWROY01FZAEl3RDRDc0NEUjBnaThlSzFnLXg0LU44dFF3YXJISmh2QnVhZAmpDXzZACWmkyTm0xZA3BEUWRUOWJ4XzZABUFdwTUpEUm1YVndRVDJqWjFlbUp2YlJoRmpfUmhsZAnRYRHBmVkVaTFMzVEpWTDQyQUtIcjgZD"
 
 # cookies
 [cookies]
@@ -97,26 +100,26 @@ sidebar = ["author", "categories", "tags", "newsletter"]
 
 ############################# social site ########################
 [[social]]
-title = "facebook"
-icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+name = "Pinterest"
+icon = "fab fa-pinterest"
+url = "https://www.pinterest.com/mialecozy/"
 
 [[social]]
-title = "twitter"
-icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+name = "TikTok"
+icon = "fab fa-tiktok"
+url = "https://www.tiktok.com/@mialecozyspaces"
 
 [[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+name = "Instagram"
+icon = "fab fa-instagram"
+url = "https://www.instagram.com/mialecozy/"
 
 [[social]]
-title = "github"
-icon = "fab fa-pinterest" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+name = "Threads"
+icon = "fab fa-threads"
+url = "https://www.threads.net/@mialecozy"
 
 [[social]]
-title = "linkedin"
-icon = "fas fa-envelope" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+name = "Twitter"
+icon = "fab fa-twitter"
+url = "https://twitter.com/mialecozy"

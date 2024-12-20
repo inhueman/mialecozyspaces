@@ -2,29 +2,29 @@
 title: "About"
 date: 2021-10-16T11:07:10+06:00
 description: "this is meta description"
-image: "images/author.jpg"
-author_name: "dani simiya"
+image: "images/author.png"
+author_name: "inhueman"
 draft: false
 ---
 
-**Hello dear...**<br>
-Quisque sem ipsum, placerat nec tortor vel, blandit vestibulum libero. Morbi sollicitudin viverra justo et pellentesque. Nunc sem metus, maximus eu leo viverra, pulvinar vestibulum mi. Morbi bibendum convallis velit, sed fringilla diam. Nullam ultricies sem vel vestibulum congue. In gravida enim in orci pellentesque, in aliquam felis faucibus. Quisque sem ipsum, placerat nec tortor vel, blandit vestibulum libero. Morbi sollicitudin viverra justo et pellentesque. Nunc sem metus, maximus eu leo viverra, pulvinar vestibulum mi. Morbi bibendum convallis velit, sed fringilla diam. Nullam ultricies sem vel vestibulum congue.
+**Welcome to Miale Cozy Spaces!**<br>
+At Miale, we believe that every home tells a story—and we’re here to help you craft yours! Our cozy corners and vibrant nooks are all about embracing creativity, comfort, and a touch of magic.
 
-## my career
-Quisque sem ipsum, placerat nec tortor vel, blandit vestibulum libero. Morbi sollicitudin viverra justo et pellentesque. Nunc sem metus, maximus eu leo viverra, pulvinar vestibulum mi. Morbi bibendum convallis velit, sed fringilla diam. Nullam ultricies sem vel vestibulum congue. In gravida enim in orci pellentesque, in aliquam felis faucibus. Quisque sem ipsum, placerat nec tortor vel, blandit vestibulum libero. Morbi sollicitudin viverra justo et pellentesque.
+## Our Philosophy
+Home is where your heart is. We celebrate the beauty of sustainable living by blending innovative decor ideas with eco-friendly choices. Our content inspires you to transform your space into a warm haven that reflects your unique style.
 
-## my hobby
-Quisque sem ipsum, placerat nec tortor vel, blandit vestibulum libero. Morbi sollicitudin viverra justo et pellentesque. Nunc sem metus, maximus eu leo viverra, pulvinar vestibulum mi. Morbi bibendum convallis velit, sed fringilla diam. Nullam ultricies sem vel vestibulum congue.
+## What We Explore
+Join us as we dive into chic DIY projects that breathe new life into thrifted finds, explore seasonal inspirations that keep your home fresh, and discover budget-friendly hacks that make stylish living accessible to everyone.
 {{< list-inline >}}
-  {{< list-item "fas fa-plane" "holiday & travel" >}} 
-  {{< list-item "fas fa-tshirt" "lifestyle & fashion" >}} 
-  {{< list-item "fas fa-camera" "photography" >}} 
+  {{< list-item "fas fa-plane" "seasonal inspirations" >}}
+  {{< list-item "fas fa-tshirt" "budget friendly hacks" >}}
+  {{< list-item "fas fa-camera" "DIY projects" >}}
 {{< /list-inline >}}
 
-
+## Join the Journey
+So grab your favorite drink, settle in, and explore with us! Whether you’re looking for clever storage solutions or the latest trends in home decor, Miale Cozy Spaces is your go-to source for turning your house into a home—one delightful detail at a time. Your cozy adventure starts here!
 
 ## my blog also publish on
 {{< image class="me-2" title="image" src="/images/mashable.jpg" alt="image">}}
 {{< image class="me-2" title="image" src="/images/tumblr.jpg" alt="image">}}
 {{< image class="me-2" title="image" src="/images/medium.jpg" alt="image">}}
-
