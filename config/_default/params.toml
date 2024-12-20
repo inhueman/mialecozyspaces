@@ -25,7 +25,7 @@ custom_script = ""
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = ""
 image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
 
 [Author]
