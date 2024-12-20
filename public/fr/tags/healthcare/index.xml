@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Healthcare on Miale Cozy Spaces</title>
-    <link>http://localhost:1313/fr/tags/healthcare/</link>
+    <link>https://mialecozy.online/fr/tags/healthcare/</link>
     <description>Recent content in Healthcare on Miale Cozy Spaces</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <managingEditor>hello@mialecozy.online (inhueman)</managingEditor>
     <webMaster>hello@mialecozy.online (inhueman)</webMaster>
     <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mialecozy.online/fr/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How the travel sector is overcoming their pandamic stress!</title>
-      <link>http://localhost:1313/fr/posts/post-3/</link>
+      <link>https://mialecozy.online/fr/posts/post-3/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><author>hello@mialecozy.online (inhueman)</author>
-      <guid>http://localhost:1313/fr/posts/post-3/</guid>
+      <guid>https://mialecozy.online/fr/posts/post-3/</guid>
       <description>&lt;p&gt;Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for. an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf.&lt;/p&gt;</description>
     </item>
   </channel>

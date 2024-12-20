@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Miale Cozy Spaces</title>
-    <link>http://localhost:1313/fr/tags/</link>
+    <link>https://mialecozy.online/fr/tags/</link>
     <description>Recent content in Tags on Miale Cozy Spaces</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <managingEditor>hello@mialecozy.online (inhueman)</managingEditor>
     <webMaster>hello@mialecozy.online (inhueman)</webMaster>
     <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mialecozy.online/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Food</title>
-      <link>http://localhost:1313/fr/tags/food/</link>
+      <link>https://mialecozy.online/fr/tags/food/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><author>hello@mialecozy.online (inhueman)</author>
-      <guid>http://localhost:1313/fr/tags/food/</guid>
+      <guid>https://mialecozy.online/fr/tags/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthcare</title>
-      <link>http://localhost:1313/fr/tags/healthcare/</link>
+      <link>https://mialecozy.online/fr/tags/healthcare/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><author>hello@mialecozy.online (inhueman)</author>
-      <guid>http://localhost:1313/fr/tags/healthcare/</guid>
+      <guid>https://mialecozy.online/fr/tags/healthcare/</guid>
       <description></description>
     </item>
     <item>
       <title>Lifestyle</title>
-      <link>http://localhost:1313/fr/tags/lifestyle/</link>
+      <link>https://mialecozy.online/fr/tags/lifestyle/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><author>hello@mialecozy.online (inhueman)</author>
-      <guid>http://localhost:1313/fr/tags/lifestyle/</guid>
+      <guid>https://mialecozy.online/fr/tags/lifestyle/</guid>
       <description></description>
     </item>
     <item>
       <title>Nature</title>
-      <link>http://localhost:1313/fr/tags/nature/</link>
+      <link>https://mialecozy.online/fr/tags/nature/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><author>hello@mialecozy.online (inhueman)</author>
-      <guid>http://localhost:1313/fr/tags/nature/</guid>
+      <guid>https://mialecozy.online/fr/tags/nature/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/fr/tags/travel/</link>
+      <link>https://mialecozy.online/fr/tags/travel/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><author>hello@mialecozy.online (inhueman)</author>
-      <guid>http://localhost:1313/fr/tags/travel/</guid>
+      <guid>https://mialecozy.online/fr/tags/travel/</guid>
       <description></description>
     </item>
   </channel>
