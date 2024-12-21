@@ -4,6 +4,8 @@
   <url>
     <loc>https://mialecozy.online/fr/about/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -17,6 +19,8 @@
   </url><url>
     <loc>https://mialecozy.online/fr/contact/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -30,6 +34,8 @@
   </url><url>
     <loc>https://mialecozy.online/fr/elements/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -43,6 +49,8 @@
   </url><url>
     <loc>https://mialecozy.online/fr/</loc>
     <lastmod>2021-10-16T11:07:10+06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -56,6 +64,8 @@
   </url><url>
     <loc>https://mialecozy.online/fr/categories/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -69,18 +79,28 @@
   </url><url>
     <loc>https://mialecozy.online/fr/tags/food/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mialecozy.online/fr/categories/food/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mialecozy.online/fr/tags/healthcare/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mialecozy.online/fr/categories/healthcare/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mialecozy.online/fr/posts/post-1/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -94,6 +114,8 @@
   </url><url>
     <loc>https://mialecozy.online/fr/posts/post-3/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -107,6 +129,8 @@
   </url><url>
     <loc>https://mialecozy.online/fr/posts/post-5/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -120,18 +144,28 @@
   </url><url>
     <loc>https://mialecozy.online/fr/tags/lifestyle/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mialecozy.online/fr/categories/lifestyle/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mialecozy.online/fr/tags/nature/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mialecozy.online/fr/categories/nature/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mialecozy.online/fr/privacy-policy/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -145,6 +179,8 @@
   </url><url>
     <loc>https://mialecozy.online/fr/posts/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -158,6 +194,8 @@
   </url><url>
     <loc>https://mialecozy.online/fr/tags/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -171,6 +209,8 @@
   </url><url>
     <loc>https://mialecozy.online/fr/posts/post-2/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -184,6 +224,8 @@
   </url><url>
     <loc>https://mialecozy.online/fr/posts/post-4/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -197,6 +239,8 @@
   </url><url>
     <loc>https://mialecozy.online/fr/posts/post-6/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -210,12 +254,18 @@
   </url><url>
     <loc>https://mialecozy.online/fr/tags/travel/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mialecozy.online/fr/categories/travel/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mialecozy.online/fr/search/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -228,6 +278,8 @@
                 />
   </url><url>
     <loc>https://mialecozy.online/fr/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -240,6 +292,8 @@
                 />
   </url><url>
     <loc>https://mialecozy.online/fr/social/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"

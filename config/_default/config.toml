@@ -69,7 +69,7 @@ rel = "manifest"
 
 ############################ Pagination ##############################
 [pagination]
-pagerSize = 4 # number of posts per page
+pagerSize = 6 # number of posts per page
 
 ############################ Taxonomies #############################
 [taxonomies]
@@ -77,3 +77,11 @@ tag = "tags"
 category = "categories"
 author = "authors"
 social = "social"
+
+############################# Sitemaps #################################
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  enableRobotsTXT = true
+  disable = false
+  filename = "public/sitemap.xml"
