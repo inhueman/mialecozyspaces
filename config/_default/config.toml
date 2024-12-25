@@ -83,5 +83,4 @@ social = "social"
   changefreq = "daily"
   priority = 0.5
   enableRobotsTXT = true
-  disable = false
-  filename = "public/sitemap.xml"
+  
