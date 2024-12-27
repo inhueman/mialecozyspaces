@@ -25,6 +25,43 @@ min = "0.87.0"
 [outputs]
 home = ["HTML", "RSS", "JSON", "WebAppManifest"]
 
+############################# Build ###############################
+[build]
+writeStats = true
+[build.buildStats]
+enable = true
+
+[minify]
+minifyOutput = true
+[minify.tdewolff.html]
+keepWhitespace = false
+[minify.tdewolff.css]
+keepCSS2 = true
+[minify.tdewolff.js]
+keepVarNames = false
+[minify.tdewolff.json]
+keepNumbers = true
+[minify.tdewolff.xml]
+keepWhitespace = false
+
+############################# Assets ##############################
+[assets]
+disableFingerprinting = false
+[assets.bypassCache]
+enable = false
+[assets.cache]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+[assets.minify]
+disableCSS = false
+disableJS = false
+[assets.optimization]
+bundleCSS = true
+bundleJS = true
+minifyCSS = true
+minifyJS = true
+gzip = true
+
 ############################# Imaging ##############################
 [imaging]
 # See https://github.com/disintegration/imaging

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>You're Offline - Mialecozy Spaces</title>
+<style>
+    /* Minimal critical CSS */
+    body {
+    font-family: system-ui, -apple-system, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background: #f5f5f5;
+    }
+    .offline-container {
+    max-width: 600px;
+    text-align: center;
+    padding: 2rem;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    h1 { color: #333; margin-bottom: 1rem; }
+    .cached-content {
+    margin: 2rem 0;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 4px;
+    }
+    .btn {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background 0.2s;
+    }
+    .btn:hover { background: #0056b3; }
+</style>
+</head>
+<body>
+<div class="offline-container">
+    <h1>You're Offline</h1>
+    <p>It seems you've lost your internet connection. Don't worry - you can still access previously viewed content.</p>
+    
+    <div id="cached-content" class="cached-content">
+    <p>Loading cached content...</p>
+    </div>
+    
+    <button onclick="retryConnection()" class="btn">
+    Try Again
+    </button>
+</div>
+
+<script>
+    // Check for cached content
+    async function loadCachedContent() {
+    const cache = await caches.open('mialecozy-content-v1');
+    const keys = await cache.keys();
+    const contentDiv = document.getElementById('cached-content');
+    
+    if (keys.length > 0) {
+        const cachedPages = keys.filter(key => key.url.endsWith('.html'));
+        if (cachedPages.length > 0) {
+        contentDiv.innerHTML = `
+            <h3>Available Offline Pages:</h3>
+            <ul style="list-style:none;padding:0">
+            ${cachedPages.map(key => `
+                <li><a href="${key.url}">${new URL(key.url).pathname}</a></li>
+            `).join('')}
+            </ul>
+        `;
+        } else {
+        contentDiv.innerHTML = '<p>No cached pages available.</p>';
+        }
+    } else {
+        contentDiv.innerHTML = '<p>No cached content available.</p>';
+    }
+    }
+
+    // Retry connection
+    function retryConnection() {
+    window.location.reload();
+    }
+
+    // Load cached content when page loads
+    document.addEventListener('DOMContentLoaded', loadCachedContent);
+</script>
+</body>
+</html>
+
