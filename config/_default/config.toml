@@ -29,13 +29,16 @@ home = ["HTML", "RSS", "JSON", "WebAppManifest"]
 [imaging]
 # See https://github.com/disintegration/imaging
 # Default JPEG or WebP quality setting. Default is 75.
-quality = 90
-
+quality = 95
+resampleFilter = "CatmullRom"
+anchor = "Smart"
+bgColor = "#ffffff"
+hinting = 2
 ############################# Caches ###############################
 [caches]
 [caches.images]
 dir = ":resourceDir/_gen"
-maxAge = "720h"
+maxAge = "1440h"
 
 [caches.assets]
 dir = ":resourceDir/_gen"

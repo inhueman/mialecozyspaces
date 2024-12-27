@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Miale Cozy Spaces</title>
-    <link>https://mialecozy.online/posts/</link>
+    <link>http://localhost:53897/posts/</link>
     <description>Recent content in Posts on Miale Cozy Spaces</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>hello@mialecozy.online (inhueman)</managingEditor>
     <webMaster>hello@mialecozy.online (inhueman)</webMaster>
     <lastBuildDate>Thu, 17 Oct 2024 15:29:52 +0300</lastBuildDate>
-    <atom:link href="https://mialecozy.online/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53897/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a Cozy Atmosphere: Tips for Every Season</title>
-      <link>https://mialecozy.online/posts/post-6/</link>
+      <link>http://localhost:53897/posts/post-6/</link>
       <pubDate>Thu, 17 Oct 2024 15:29:52 +0300</pubDate><author>hello@mialecozy.online (inhueman)</author>
-      <guid>https://mialecozy.online/posts/post-6/</guid>
+      <guid>http://localhost:53897/posts/post-6/</guid>
       <description>&lt;p&gt;Creating a cozy atmosphere in your home is more than just aesthetics; it’s about crafting a sanctuary where you can unwind and feel at ease.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Seasonal Color Trends: How to Refresh Your Home</title>
-      <link>https://mialecozy.online/posts/post-5/</link>
+      <link>http://localhost:53897/posts/post-5/</link>
       <pubDate>Thu, 17 Oct 2024 15:07:49 +0300</pubDate><author>hello@mialecozy.online (inhueman)</author>
-      <guid>https://mialecozy.online/posts/post-5/</guid>
+      <guid>http://localhost:53897/posts/post-5/</guid>
       <description>&lt;p&gt;Color has an incredible power to transform a space. It can evoke emotions, set the mood, and even influence how we perceive the size of a room.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maximizing Small Spaces: Smart Storage Solutions</title>
-      <link>https://mialecozy.online/posts/post-4/</link>
+      <link>http://localhost:53897/posts/post-4/</link>
       <pubDate>Thu, 17 Oct 2024 15:02:09 +0300</pubDate><author>hello@mialecozy.online (inhueman)</author>
-      <guid>https://mialecozy.online/posts/post-4/</guid>
+      <guid>http://localhost:53897/posts/post-4/</guid>
       <description>&lt;p&gt;Living in a small space can be both charming and challenging. While cozy apartments have their perks, finding enough storage can often feel like a puzzle.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Transition Your Home Decor for Each Season</title>
-      <link>https://mialecozy.online/posts/post-3/</link>
+      <link>http://localhost:53897/posts/post-3/</link>
       <pubDate>Thu, 17 Oct 2024 14:49:49 +0300</pubDate><author>hello@mialecozy.online (inhueman)</author>
-      <guid>https://mialecozy.online/posts/post-3/</guid>
+      <guid>http://localhost:53897/posts/post-3/</guid>
       <description>&lt;p&gt;As the seasons change, so do our moods and the way we interact with our living spaces. There’s something refreshing about transitioning your home decor to reflect the beauty of each season. Whether it’s the vibrant blooms of spring, the sunny vibes of summer, the warm hues of fall, or the cozy comforts of winter, seasonal decor can bring new life to your home.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Creating a Cozy Atmosphere: Tips for Every Season</title>
-      <link>https://mialecozy.online/posts/post-2/</link>
+      <link>http://localhost:53897/posts/post-2/</link>
       <pubDate>Thu, 17 Oct 2024 14:34:14 +0300</pubDate><author>hello@mialecozy.online (inhueman)</author>
-      <guid>https://mialecozy.online/posts/post-2/</guid>
+      <guid>http://localhost:53897/posts/post-2/</guid>
       <description>&lt;p&gt;There’s nothing quite like coming home to a cozy atmosphere after a long day. A warm and inviting space can have a profound impact on your mood and well-being.&lt;/p&gt;</description>
     </item>
     <item>
       <title>10 Budget-Friendly Home Decor Ideas</title>
-      <link>https://mialecozy.online/posts/post-1/</link>
+      <link>http://localhost:53897/posts/post-1/</link>
       <pubDate>Thu, 17 Oct 2024 13:41:42 +0300</pubDate><author>hello@mialecozy.online (inhueman)</author>
-      <guid>https://mialecozy.online/posts/post-1/</guid>
+      <guid>http://localhost:53897/posts/post-1/</guid>
       <description>&lt;p&gt;Decorating your home can be a daunting task, especially when you&amp;rsquo;re trying to stick to a budget.&#xA;But the good news is that you don’t have to spend a fortune to create a beautiful and inviting space! With a little creativity and resourcefulness, you can transform your home without breaking the bank. In this article, we’ll explore ten budget-friendly home decor ideas that will help you refresh your space while keeping your wallet happy. From thrift store finds to DIY projects, these tips will inspire you to get creative and make your home uniquely yours.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sustainable Home Decor: Eco-Friendly Tips for a Greener Space</title>
-      <link>https://mialecozy.online/posts/post-7/</link>
+      <link>http://localhost:53897/posts/post-7/</link>
       <pubDate>Tue, 15 Oct 2024 14:37:52 +0300</pubDate><author>hello@mialecozy.online (inhueman)</author>
-      <guid>https://mialecozy.online/posts/post-7/</guid>
+      <guid>http://localhost:53897/posts/post-7/</guid>
       <description>&lt;p&gt;Sustainability has become more than just a buzzword; it’s a lifestyle choice that many people are embracing—especially when it comes to home decor.&lt;/p&gt;</description>
     </item>
   </channel>
