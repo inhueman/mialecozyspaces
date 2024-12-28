@@ -2,59 +2,67 @@
 baseURL = "https://mialecozy.online/"
 title = "Miale Cozy Spaces"
 theme = "mialecozyspaces"
-# Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "UTC"
-# post excerpt
-summaryLength = "20" # see https://gohugo.io/content-management/excerpts/
-# google analytics
-googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
-# disqus short name
-disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
-# disable language
-disableLanguages = [
-] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
-hasCJKLanguage = false # If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
+timeout = 300000
 
-############################# Modules ##############################
+[build]
+writeStats = true
+
+[build.buildStats]
+enable = true
+
+[build.processing]
+css = true
+scss = true
+js = true
+html = true
+
+[build.processing.sass]
+enableSourceMap = false
+outputStyle = "compressed"
+includePaths = ["node_modules"]
+
 [module]
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
 
-############################# Outputs ##############################
+[security.exec]
+allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^node$', '^git$', '^sass$']
+osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM)$']
+
 [outputs]
 home = ["HTML", "RSS", "JSON", "WebAppManifest"]
 
-############################# Build ###############################
-[build]
-writeStats = true
-[build.buildStats]
-enable = true
-
 [minify]
 minifyOutput = true
+
 [minify.tdewolff.html]
 keepWhitespace = false
+
 [minify.tdewolff.css]
 keepCSS2 = true
+
 [minify.tdewolff.js]
 keepVarNames = false
+
 [minify.tdewolff.json]
 keepNumbers = true
+
 [minify.tdewolff.xml]
 keepWhitespace = false
 
-############################# Assets ##############################
 [assets]
 disableFingerprinting = false
-[assets.bypassCache]
-enable = false
-[assets.cache]
-dir = ":resourceDir/_gen"
-maxAge = "720h"
+
+[assets.sass]
+enableSourceMap = false
+outputStyle = "compressed"
+includePaths = ["node_modules"]
+
 [assets.minify]
 disableCSS = false
 disableJS = false
+
 [assets.optimization]
 bundleCSS = true
 bundleJS = true
@@ -62,36 +70,46 @@ minifyCSS = true
 minifyJS = true
 gzip = true
 
-############################# Imaging ##############################
 [imaging]
-# See https://github.com/disintegration/imaging
-# Default JPEG or WebP quality setting. Default is 75.
-quality = 95
-resampleFilter = "CatmullRom"
+quality = 82
+resampleFilter = "Lanczos"
 anchor = "Smart"
-bgColor = "#ffffff"
-hinting = 2
-############################# Caches ###############################
+
+[imaging.exif]
+includeFields = ""
+disableDate = true
+disableLatLong = true
+
 [caches]
+[caches.getresource]
+dir = ":resourceDir/_gen"
+maxAge = "24h"
+
+[caches.getjson]
+dir = ":resourceDir/_gen"
+maxAge = "24h"
+
 [caches.images]
 dir = ":resourceDir/_gen"
-maxAge = "1440h"
+maxAge = "24h"
 
 [caches.assets]
 dir = ":resourceDir/_gen"
-maxAge = "720h"
+maxAge = "24h"
 
+[server]
+[[server.headers]]
+for = "/images/*"
+[server.headers.values]
+Cache-Control = "public, max-age=31536000"
 
-############################# Markup ###############################
 [markup]
 [markup.goldmark.renderer]
 unsafe = true
 
 [markup.highlight]
-style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
+style = "monokai"
 
-
-############################ Media types ############################
 [mediaTypes]
 [mediaTypes."application/manifest+json"]
 suffixes = ["webmanifest"]
@@ -100,27 +118,21 @@ suffixes = ["webmanifest"]
 delimiter = ""
 suffixes = [""]
 
-
-############################ Output Format ###########################
 [outputFormats]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
 
-############################ Pagination ##############################
 [pagination]
-pagerSize = 6 # number of posts per page
+pagerSize = 6
 
-############################ Taxonomies #############################
 [taxonomies]
 tag = "tags"
 category = "categories"
 author = "authors"
 social = "social"
 
-############################# Sitemaps #################################
 [sitemap]
-  changefreq = "daily"
-  priority = 0.5
-  enableRobotsTXT = true
-  
+changefreq = "daily"
+priority = 0.5
+enableRobotsTXT = true

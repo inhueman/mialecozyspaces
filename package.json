@@ -1,12 +1,25 @@
 {
-  "name": "minilog-hugo",
-  "version": "1.0.0",
-  "license": "MIT",
-  "author": "statichunt",
-  "scripts": {
+"name": "minilog-hugo",
+"version": "1.0.0",
+"license": "MIT",
+"author": "statichunt",
+"browserslist": [
+    "last 2 versions",
+    "> 1%",
+    "ie >= 11",
+    "last 1 Android versions",
+    "last 1 ChromeAndroid versions",
+    "last 1 Safari versions"
+],
+"scripts": {
     "dev": "cd exampleSite; hugo server || hugo server --themesDir ../..",
     "test": "cd exampleSite; hugo server --themesDir ../.. --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --verbose --verboseLog --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify|| hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --verbose --verboseLog --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
     "build": "cd exampleSite; hugo || hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --verbose --verboseLog --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
     "update": "hugo mod clean && hugo mod get -u ./... && hugo mod tidy"
-  }
+},
+"dependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "postcss-cli": "^10.1.0"
+}
 }
