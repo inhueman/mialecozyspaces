@@ -120,7 +120,13 @@ mediaType = "application/manifest+json"
 rel = "manifest"
 
 [pagination]
-pagerSize = 6
+pagerSize = 12
+
+[permalinks]
+posts = "/blog/:year/:month/:slug/"
+categories = "/categories/:slug/"
+tags = "/topics/:slug/"
+authors = "/author/:slug/"
 
 [taxonomies]
 tag = "tags"
@@ -129,6 +135,27 @@ author = "authors"
 social = "social"
 
 [sitemap]
-changefreq = "daily"
+changefreq = "weekly"
+filename = "sitemap.xml"
 priority = 0.5
 enableRobotsTXT = true
+
+[[sitemap.maps]]
+path = "/posts"
+priority = 0.8
+changefreq = "weekly"
+
+[[sitemap.maps]]
+path = "/categories"
+priority = 0.6
+changefreq = "monthly"
+
+[[sitemap.maps]]
+path = "/tags"
+priority = 0.6
+changefreq = "monthly"
+
+[[sitemap.maps]]
+path = "/authors"
+priority = 0.7
+changefreq = "monthly"

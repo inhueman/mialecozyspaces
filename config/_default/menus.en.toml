@@ -2,103 +2,145 @@
 
 # main menu
 [[main]]
-name = "about me"
+name = "About"
 url = "about"
 weight = 1
 
 [[main]]
+name = "Spaces"
 weight = 2
-name = "pages"
 hasChildren = true
 
-
-  [[main]]
-  parent = "pages"
-  name = "privacy policy"
-  url = "privacy-policy/"
-
-  [[main]]
-  parent = "pages"
-  name = "elements"
-  url = "elements"
-
-  [[main]]
-  parent = "pages"
-  name = "blog details"
-  url = "posts/post-1/"
-
-  [[main]]
-  parent = "pages"
-  name = "categories"
-  url = "categories/lifestyle/"
-
-  [[main]]
-  parent = "pages"
-  name = "tags"
-  url = "tags/lifestyle/"
-
-  [[main]]
-  parent = "pages"
-  name = "search"
-  url = "search/"
-  
 [[main]]
-name = "Contact"
-url = "contact"
+parent = "Spaces"
+name = "Bedroom"
+url = "categories/bedroom/"
+weight = 1
+
+[[main]]
+parent = "Spaces"
+name = "Bathroom"
+url = "categories/bathroom/"
+weight = 2
+
+[[main]]
+parent = "Spaces"
+name = "Reading Nooks"
+url = "categories/reading-nooks/"
+weight = 3
+
+[[main]]
+parent = "Spaces"
+name = "Outdoor"
+url = "categories/outdoor/"
+weight = 4
+
+[[main]]
+parent = "Spaces"
+name = "Living Room"
+url = "categories/living-room/"
+weight = 5
+
+[[main]]
+parent = "Spaces"
+name = "Patio"
+url = "categories/patio/"
+weight = 6
+
+[[main]]
+parent = "Spaces"
+name = "Balcony"
+url = "categories/balcony/"
+weight = 7
+
+[[main]]
+parent = "Spaces"
+name = "Kitchen"
+url = "categories/kitchen/"
+weight = 8
+
+[[main]]
+parent = "Spaces"
+name = "Dining"
+url = "categories/dining/"
+weight = 9
+
+[[main]]
+name = "Shop"
+url = "shop"
 weight = 3
 
 
 # offcanvas menu
 [[offcanvas]]
-name = "Home"
-url = ""
+name = "About"
+url = "about"
 weight = 1
 
 [[offcanvas]]
-name = "about me"
-url = "about"
+name = "Spaces"
+weight = 2
+hasChildren = true
+
+[[offcanvas]]
+parent = "Spaces"
+name = "Bedroom"
+url = "categories/bedroom/"
+weight = 1
+
+[[offcanvas]]
+parent = "Spaces"
+name = "Bathroom"
+url = "categories/bathroom/"
 weight = 2
 
 [[offcanvas]]
+parent = "Spaces"
+name = "Reading Nooks"
+url = "categories/reading-nooks/"
 weight = 3
-name = "pages"
-hasChildren = true
-
-
-  [[offcanvas]]
-  parent = "pages"
-  name = "privacy policy"
-  url = "privacy-policy/"
-
-  [[offcanvas]]
-  parent = "pages"
-  name = "elements"
-  url = "elements"
-
-  [[offcanvas]]
-  parent = "pages"
-  name = "blog details"
-  url = "posts/post-1/"
-
-  [[offcanvas]]
-  parent = "pages"
-  name = "categories"
-  url = "categories/lifestyle/"
-
-  [[offcanvas]]
-  parent = "pages"
-  name = "tags"
-  url = "tags/lifestyle/"
-
-  [[offcanvas]]
-  parent = "pages"
-  name = "search"
-  url = "search/"
 
 [[offcanvas]]
-name = "contact"
-url = "contact"
+parent = "Spaces"
+name = "Outdoor"
+url = "categories/outdoor/"
 weight = 4
+
+[[offcanvas]]
+parent = "Spaces"
+name = "Living Room"
+url = "categories/living-room/"
+weight = 5
+
+[[offcanvas]]
+parent = "Spaces"
+name = "Patio"
+url = "categories/patio/"
+weight = 6
+
+[[offcanvas]]
+parent = "Spaces"
+name = "Balcony"
+url = "categories/balcony/"
+weight = 7
+
+[[offcanvas]]
+parent = "Spaces"
+name = "Kitchen"
+url = "categories/kitchen/"
+weight = 8
+
+[[offcanvas]]
+parent = "Spaces"
+name = "Dining"
+url = "categories/dining/"
+weight = 9
+
+[[offcanvas]]
+name = "Shop"
+url = "shop"
+weight = 3
+
 
 # footer menu
 [[footer]]
